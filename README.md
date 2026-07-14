@@ -16,16 +16,6 @@ Data Architecture: Designing a Modern Data Warehouse Using Medallion Architectur
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
 Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
-
-SQL Development
-Data Architect
-Data Engineering
-ETL Pipeline Developer
-Data Modeling
-Data Analytics
-🛠️ Important Links & Tools:
-Everything is for Free!
 
 Datasets: Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.
@@ -80,11 +70,6 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
-
-
-✅ Tableau HR Project: Course Link | Download Materials | Public
-
-✅ ChatGPT: Course Link | Download Materials
 
 🛡️ License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
